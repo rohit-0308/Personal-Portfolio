@@ -289,41 +289,6 @@ img {
   background-color: var(--bg-color);
 }
 
-/* .skills__container {
-  row-gap: 2rem;
-}
-
-.skills__subtitle {
-  color: var(--first-color);
-  margin-bottom: var(--mb-3);
-}
-
-.skills__name {
-  cursor: none;
-  color: whitesmoke;
-  display: inline-block;
-  font-size: var(--small-font-size);
-  margin-right: var(--mb-2);
-  margin-bottom: var(--mb-3);
-  padding: 0.25rem 0.5rem;
-  background-color: var(--first-color);
-  border-radius: 0.25rem;
-}
-
-.skills__name:hover {
-  background-color: var(--bg-color);
-  color: var(--white-color);
-} */ */
-
-/* .skills__img img {
-  border-radius: 0.5rem;
-} */
-
-.skills__subtitle {
-  color: var(--first-color);
-  margin-top: var(--mb-3);
-}
-
 .skills__container > ul > li {
   position: relative;
   list-style: none;
